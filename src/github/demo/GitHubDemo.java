@@ -16,7 +16,7 @@ public class GitHubDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Branch 2.0s");
+        System.out.println("Branch 2.0s in master");
     }
     
 }
